@@ -1,3 +1,8 @@
+*.elf
+*.nacp
+*.nro
+.vscode/
+build/
 *.o
 *.map
 *.exe
